@@ -1,0 +1,1 @@
+This project is an extension to the inbuilt turtle library of python. It includes functions for drawing various shapes and curves. The shapes are easily configurable in terms of color, length and pen-width.
